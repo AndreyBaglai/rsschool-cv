@@ -8,6 +8,7 @@
 > For more information, see below on this page or contact me._
 
 ## Contacts
+
 - Phone: +380-93-196-61-01
 - [linkedIn](https://www.linkedin.com/in/andrey-baglai-049672153/)
 - andreybaglai@gmail.com
@@ -15,17 +16,31 @@
 
 ## Education
 
- **2007-2011** Dnepropetrovsk College of Welding and Electronics named
+**2007-2011** Dnepropetrovsk College of Welding and Electronics named
 after E.O. Paton, in direction “Service of computer and intellectual systems and
 networks”
 
 ---
-           
+
 **2011-2013**National Technical University "Dnipro Polytechnic". Faculty
 of Information technology, specialty: "Computer Engineering".
-          
----         
-              
+
+---
+
 **2013-2014** National Technical University "Dnipro Polytechnic". Faculty
 of Information technologies, specialty: "Computer systems and networks", specialist diploma.
+
+## Timeline
+
+- **2015-2020** Worked as an administrator in a sports club "Feel Good".
+
+- **From 2020** I started learning programming languages (HTML, CSS, JS,
+  React.js).
+
+## Skills
+
+I have skills and experience in
+**_HTML / CSS (SCSS, LESS) / JS (ES6+) / React.js._** I also got acquainted
+with tools and technologies such as **_npm, Git, json._** In my work, I used the IDE, such as **_VSCode, Github._**
+
 
