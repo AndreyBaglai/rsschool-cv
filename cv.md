@@ -43,6 +43,13 @@ I have skills and experience in
 **_HTML / CSS (SCSS, LESS) / JS (ES6+) / React.js._** I also got acquainted
 with tools and technologies such as **_npm, Git, json._** In my work, I used the IDE, such as **_VSCode, Github._**
 
+```JavaScript
+
+function savePostsToLocalStorage(data) {
+    localStorage.setItem('posts', data);
+}
+```
+
 ## Projects
 
 | Descriptions                                                        |                         Page                          |                                                     Code |
@@ -50,3 +57,9 @@ with tools and technologies such as **_npm, Git, json._** In my work, I used the
 | ToDo list with use HTML(LocalStorage), CSS, JS.                     |   [page](https://andreybaglai.github.io/ListTasks/)   |        [code](https://github.com/AndreyBaglai/ListTasks) |
 | Application - weather forecast,HTML, CSS, Javascript Work with API. | [page](https://andreybaglai.github.io/fancy-weather/) | [code](https://andreybaglai.github.io/react-movies-app/) |
 | Simple movie application created with React.js                      | [page](https://andreybaglai.github.io/fancy-weather/) | [code](https://github.com/AndreyBaglai/react-movies-app) |
+
+## Languages
+
+- Ukrainian: Native.
+- Russian: Native.
+- English: reading technical documentation.
