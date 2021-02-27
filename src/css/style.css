@@ -54,3 +54,20 @@
   font-weight: 400;
   margin-top: 10px;
 }
+
+.contacts {
+  list-style-type: none;
+  font-size: 16px;
+}
+
+.contacts > li {
+  margin-bottom: 6px;
+}
+
+.contact-link {
+  color: #00b789;
+}
+
+.contact-link:hover {
+  color: #00825d;
+}
