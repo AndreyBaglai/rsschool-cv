@@ -1,0 +1,46 @@
+@media (max-width: 991px) {
+    .header-text {
+        font-size: 1em;
+    }
+    
+    .left-side {
+        text-align: left;
+    }
+
+    .contacts {
+        padding-left: 0;
+    }
+
+    .wrap-fa {
+        position: absolute;
+        left: 15px;
+    }
+
+    .contact-link {
+        margin-left: 20px;
+    }
+
+    .content-project {
+        padding-right: 0;
+        padding-bottom: 16px;;
+        border-right: 0;
+        border-bottom: #848383 solid 2px;
+    }
+}
+
+@media (max-width: 585px) {
+    .header-text {
+        font-size: 0.8em;
+    }
+}
+
+@media print {
+    #print-text {
+        font-family: sans-serif;
+        font-size: 16px;
+    }
+
+    .main-foto {
+        display: none;
+    }
+}
